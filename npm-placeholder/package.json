@@ -1,0 +1,10 @@
+{
+  "name": "dsh-openbb",
+  "version": "0.0.1",
+  "description": "The OpenBB data platform (Apache-2.0) as DeepSeek Harness tools — curated command catalog, deterministic bridge, provider/timestamp provenance on every payload; the LLM plans and interprets but never invents numbers. Not affiliated with OpenBB. Name reserved; first release in development.",
+  "keywords": ["deepseek-harness", "dsh", "dsh-plugin", "openbb", "financial-data", "market-data", "quant", "multi-provider", "agent-tools"],
+  "repository": {"type": "git", "url": "git+https://github.com/vicfei/dsh-OpenBB.git"},
+  "homepage": "https://github.com/vicfei/dsh-OpenBB#readme",
+  "license": "MIT",
+  "author": "vicfei"
+}
